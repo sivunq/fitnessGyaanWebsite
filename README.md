@@ -1,3 +1,4 @@
 # fitnessGyaanWebsite
 sharing all I know about getting fit
-https://sivunq.github.io/fitnessGyaan
+
+deployed at https://sivunq.github.io/fitnessGyaan
